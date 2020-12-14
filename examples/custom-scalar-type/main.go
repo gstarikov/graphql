@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/graphql-go/graphql"
-	"github.com/graphql-go/graphql/language/ast"
+	"github.com/gstarikov/graphql"
+	"github.com/gstarikov/graphql/language/ast"
 )
 
 type CustomID struct {
